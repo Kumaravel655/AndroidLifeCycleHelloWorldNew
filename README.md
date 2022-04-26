@@ -113,7 +113,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![SS1](https://user-images.githubusercontent.com/75235334/162755686-dcc78452-ed7e-4ae2-b628-b4cc3c55dbce.png)
 
 
 
