@@ -1,4 +1,4 @@
-# Ex.No:1
+
 ### EX NO:01
 ### DATE:
 # <p align="center">  To create a HelloWorld Activity using all lifecycles methods to display messages.</p>
